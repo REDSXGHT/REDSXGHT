@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @REDSXGHT
 - 👀 I’m interested in C++ , Python
-- 🌱 I’m currently learning C in deep
+- 🌱 I’m currently learning PenTest in deep
 
 <!---
 REDSXGHT/REDSXGHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
